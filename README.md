@@ -1,1 +1,1 @@
-# shinjinkennsyu_1
+# 新人研修１班
