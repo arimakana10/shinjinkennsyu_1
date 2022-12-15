@@ -1,6 +1,7 @@
 # 新人研修１班
 がんばりましょう！
 ## リンク集
+---
 - 新人研修ドライブ
   - [全体](https://drive.google.com/drive/folders/0AHxj9B6A-i3nUk9PVA)
   - [1班](https://drive.google.com/drive/folders/1fuQj2ZdU2i1ztvP8cMupNeCyGlKzFXVD?usp=share_link)
@@ -10,4 +11,15 @@
     - [Github](https://github.com/laika90/shinjinkennsyu_4)  
   - [過去資料](https://drive.google.com/drive/folders/1fyBqxYrH-SqBb3Y9DCdgGmuoIhjmhIGL)
   - [講義資料](https://drive.google.com/drive/folders/1qMc2WkkLBbAq9HuBZSc5J8Xlq4ZsboBi)
+
+ ## 担当
+  ---
+  |係|メンバー|
+  |---|---|  
+  |PM|高本|  
+  |サブPM|松島|  
+  |会計|有馬|  
+  |制御||
+  |回路||
+  |構造||
 
