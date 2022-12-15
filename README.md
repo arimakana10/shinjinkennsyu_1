@@ -1,4 +1,5 @@
 # 新人研修１班
+がんばりましょう！
 ## リンク集
 - 新人研修ドライブ
   - [全体](https://drive.google.com/drive/folders/0AHxj9B6A-i3nUk9PVA)
