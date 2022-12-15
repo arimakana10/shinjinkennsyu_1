@@ -1,7 +1,6 @@
 # 新人研修１班
 がんばりましょう！
 ## リンク集
----
 - 新人研修ドライブ
   - [全体](https://drive.google.com/drive/folders/0AHxj9B6A-i3nUk9PVA)
   - [1班](https://drive.google.com/drive/folders/1fuQj2ZdU2i1ztvP8cMupNeCyGlKzFXVD?usp=share_link)
@@ -13,7 +12,6 @@
   - [講義資料](https://drive.google.com/drive/folders/1qMc2WkkLBbAq9HuBZSc5J8Xlq4ZsboBi)
 
  ## 担当
-  ---
   |係|メンバー|
   |---|---|  
   |PM|高本|  
